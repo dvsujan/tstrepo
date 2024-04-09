@@ -1,0 +1,4 @@
+steps: 
+create account on github 
+downld git for windows 
+create local repo
